@@ -8,6 +8,10 @@
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
+
+
+-   <a href="https://www.qrz.com/db/BI7ACC"><code><img height="20" width="50" src="./images/qrz_com.svg"></code></a>：我的QRZ
+
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
