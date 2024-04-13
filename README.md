@@ -23,8 +23,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=BI7ACC&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![BI7ACC's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BI7ACC&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BI7ACC&layout=compact&langs_count=6)
