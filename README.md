@@ -10,13 +10,13 @@
 
 ### **技术栈:**
 
-`<a href="https://v3.cn.vuejs.org"><code>``<img height="20" src="./images/vue.png"></code>``</a>`
-`<a href="https://reactjs.org/"><code>``<img height="20" src="./images/react.svg"></code>``</a>`
-`<a href="https://nextjs.org/"><code>``<img height="20" src="./images/next.png"></code>``</a>`
-`<a href="https://www.tslang.cn/index.html"><code>``<img height="20" src="./images/typescript.png"></code>``</a>`
-`<a href="https://webpack.js.org/"><code>``<img height="20" src="./images/webpack.svg"></code>``</a>`
-`<a href="https://cn.vitejs.dev"><code>``<img height="20" src="./images/vite.png"></code>``</a>`
-`<a href="https://sass-lang.com"><code>``<img height="20" src="./images/sass2.png"></code>``</a>`
-`<a href="https://tailwindcss.com"><code>``<img height="20" src="./images/tailwindcss.png"></code>``</a>`
-`<a href="https://go.dev/"><code>``<img height="20" src="./images/golang.png"></code>``</a>`
-`<a href="https://www.docker.com"><code>``<img height="20" src="./images/docker.png"></code>``</a>`
+[![Vue.js](./images/vue.png)](https://v3.cn.vuejs.org)
+[![React.js](./images/react.svg)](https://reactjs.org/)
+[![Next.js](./images/next.png)](https://nextjs.org/)
+[![TypeScript](./images/typescript.png)](https://www.tslang.cn/index.html)
+[![Webpack](./images/webpack.svg)](https://webpack.js.org/)
+[![Vite](./images/vite.png)](https://cn.vitejs.dev)
+[![Sass](./images/sass2.png)](https://sass-lang.com)
+[![Tailwind CSS](./images/tailwindcss.png)](https://tailwindcss.com)
+[![Go](./images/golang.png)](https://go.dev/)
+[![Docker](./images/docker.png)](https://www.docker.com)
