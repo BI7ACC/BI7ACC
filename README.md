@@ -10,5 +10,4 @@
 
 ### **技术栈:**
 
-[<img src="./images/vue.png" height="20">](https://v3.cn.vuejs.org) [<img src="./images/react.svg" height="20">](https://reactjs.org/) [<img src="./ height="20">](https://www.tslang.cn/index.html) [<img src="./images/webpack.svg" height="20">](https://webpack.js.org/) [<img src="./images/vite.png" height="20">](https://cn.vitejs.dev) [<img src="./images/sass2.png" height="20">](https://sass-lang.com) [<img src="./images/tailwindcss.png" height="20">](https://tailwindcss.com) [<img src="./images/golang.png" height="20">](https://go.dev/) [<img src="./images/docker.png" height="20">](https://www.docker.com)
-
+[<img src="./images/vue.png" height="20">](https://v3.cn.vuejs.org) [<img src="./images/react.svg" height="20">](https://reactjs.org/) [<img src="./images/next.png" height="20">](https://nextjs.org/) [<img src="./images/typescript.png" height="20">](https://www.tslang.cn/index.html) [<img src="./images/webpack.svg" height="20">](https://webpack.js.org/) [<img src="./images/vite.png" height="20">](https://cn.vitejs.dev) [<img src="./images/sass2.png" height="20">](https://sass-lang.com) [<img src="./images/tailwindcss.png" height="20">](https://tailwindcss.com) [<img src="./images/golang.png" height="20">](https://go.dev/) [<img src="./images/docker.png" height="20">](https://www.docker.com)
